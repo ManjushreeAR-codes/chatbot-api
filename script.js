@@ -1,4 +1,4 @@
-const API_KEY = "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";
+const API_KEY = " paste your API key here! ";
 
 let messages = {
     history: [],
